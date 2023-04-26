@@ -1,0 +1,6 @@
+img {height: 100%; width: 100%; object-fit: cover}
+td div {background-color: white; height: 2px}
+.projector {margin: auto; padding-left: 50px; position: relative; width: 1000px}
+.headline {font-size: xx-large; margin-top: 10px; margin-bottom: 20px; width: 500px}
+.projector table {border-color: white; border-style: solid; font-size: small; height: 50px; width: 200px; text-align: center}
+.projector > * {bottom: 100px; position: absolute}
